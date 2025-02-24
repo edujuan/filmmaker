@@ -24,6 +24,10 @@ OPENAI_MODEL_NAME=gpt-4o-mini
 OTEL_SDK_DISABLED=true
 ```
 
+## Demo
+
+https://github.com/sundai-club/filmmaker/raw/main/example.mp4
+
 ## Usage
 
 Run the script generator:
