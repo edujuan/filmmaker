@@ -6,7 +6,9 @@ This project uses [crewAI](https://crew.ai/) to create a network of AI agents th
 
 ## Demo Example
 
-https://github.com/sundai-club/filmmaker/blob/main/example.mp4
+![img](example.gif)
+
+MP4: https://github.com/sundai-club/filmmaker/blob/main/example.mp4
 
 ## Setup
 
