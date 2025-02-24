@@ -1,6 +1,6 @@
 # Film Crew AI
 
-## Agentic AI crew to generate a short film from 0 to masterpiece.
+## Agentic AI crew to generate a short film from 0 to masterpiece, fully autonomous.
 
 This project uses [crewAI](https://crew.ai/) to create a network of AI agents that collaborate to generate a short movie script along with image (DALL-E, Flux) and video (Sora, Hailuo) generation prompts for visualization.
 
@@ -25,10 +25,6 @@ OPENAI_API_KEY=your_api_key_here
 OPENAI_MODEL_NAME=gpt-4o-mini
 OTEL_SDK_DISABLED=true
 ```
-
-## Demo
-
-https://github.com/sundai-club/filmmaker/raw/main/example.mp4
 
 ## Usage
 
