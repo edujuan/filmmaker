@@ -4,6 +4,10 @@
 
 This project uses [crewAI](https://crew.ai/) to create a network of AI agents that collaborate to generate a short movie script along with image (DALL-E, Flux) and video (Sora, Hailuo) generation prompts for visualization.
 
+## Demo Example
+
+https://github.com/sundai-club/filmmaker/blob/main/example.mp4
+
 ## Setup
 
 1. Install dependencies:
